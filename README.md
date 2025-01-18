@@ -32,4 +32,4 @@ This repository contains the implementation of supervised image segmentation mod
 - The best performance was achieved using **PSP-Net** combined with attention gates and weighted loss functions.
 - **Mean Intersection over Union (mIoU)** on the Kaggle test set: **71.78%**.
 
-This project was completed as part of the **Artifial Neural Networks and Deep Learning (AN2DL)** course.
+This project was completed as part of the **Artifial Neural Networks and Deep Learning (ANNDL)** course.
